@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(49, 166, 187);
+
+    font-size: larger;
+}
+
+.card-container {
+    position: absolute;
+
+    top: 50px;
+    left: 50px;
+}
+
+#cardz {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
